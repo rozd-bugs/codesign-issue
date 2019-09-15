@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="codesign-issue">
+    <configurations>
+      <configuration name="codesign-issue" target-platform="Mobile" pure-as="true" output-type="Library" output-file="codesign-issue.swc" output-folder="$MODULE_DIR$/bin">
+        <dependencies>
+          <sdk name="33.0.2" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/default" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="33.0.2" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

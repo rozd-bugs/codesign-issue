@@ -1,0 +1,16 @@
+<platform xmlns="http://ns.adobe.com/air/extension/32.0">
+    <description></description>
+    <sdkVersion>12.1</sdkVersion>
+
+    <linkerOptions>
+        <option>-ios_version_min 11.0</option>
+        <option>-w</option>
+        <option>-ObjC</option>
+        <option>-rpath @executable_path/Frameworks</option>
+    </linkerOptions>
+
+    <packagedDependencies>
+        <packagedDependency>Frameworks/CodeSignIssueExtension.framework</packagedDependency>
+    </packagedDependencies>
+
+</platform>

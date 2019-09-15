@@ -1,0 +1,11 @@
+framework module CodeSignIssueExtension {
+  umbrella header "CodeSignIssueExtension.h"
+
+  export *
+  module * { export * }
+}
+
+module CodeSignIssueExtension.Swift {
+    header "CodeSignIssueExtension-Swift.h"
+    requires objc
+}

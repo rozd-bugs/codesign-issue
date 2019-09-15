@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codesign-issue/codesign-issue.iml" filepath="$PROJECT_DIR$/codesign-issue/codesign-issue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codesign-issue-debug/codesign-issue-debug.iml" filepath="$PROJECT_DIR$/codesign-issue-debug/codesign-issue-debug.iml" />
+    </modules>
+  </component>
+</project>
